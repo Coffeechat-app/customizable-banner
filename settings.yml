@@ -13,14 +13,7 @@ warning_content:
       Service Status: Down
 
         <span>
-          <svg
-            class="fa d-icon d-icon-globe-americas svg-icon"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <use xlink:href="#globe-americas"></use>
-          </svg>
-          <span class="relative-time">January 11, 2021 (UTC)</span>
-        </span>
+       
       </span>.
     </p>
     <p>
