@@ -10,15 +10,8 @@ warning_level:
 warning_content:
   default: >
     <p>
-      This version of Android will not be able to load this forums after
-      <span
-        data-date="2021-01-11"
-        class="discourse-local-date cooked-date"
-        data-timezone="UTC"
-        data-email-preview="2021-01-11T00:00:00Z UTC"
-        aria-label="Sao Paulo Sunday, January 10, 2021 9:00 PM → Monday, January 11, 2021 9:00 PM, Paris Monday, January 11, 2021 1:00 AM → Tuesday, January 12, 2021 1:00 AM, Los Angeles Sunday, January 10, 2021 4:00 PM → Monday, January 11, 2021 4:00 PM"
-        data-html-tooltip='<div class="locale-dates-previews"><div class="preview current"><span class="timezone">Sao Paulo</span><span class="date-time">Sunday, January 10, 2021 9:00 PM → Monday, January 11, 2021 9:00 PM</span></div><div class="preview"><span class="timezone">Paris</span><span class="date-time">Monday, January 11, 2021 1:00 AM → Tuesday, January 12, 2021 1:00 AM</span></div><div class="preview"><span class="timezone">Los Angeles</span><span class="date-time">Sunday, January 10, 2021 4:00 PM → Monday, January 11, 2021 4:00 PM</span></div></div>'
-      >
+      Service Status: Down
+
         <span>
           <svg
             class="fa d-icon d-icon-globe-americas svg-icon"
@@ -31,7 +24,7 @@ warning_content:
       </span>.
     </p>
     <p>
-      More information about this upcoming change can be found <a href="https://meta.discourse.org/t/-/169672?u=falco">here</a>.
+      Our team is looking into this issue. <a href="https://meta.discourse.org/t/-/169672?u=falco">here</a>.
     </p>
 
   description:
