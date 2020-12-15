@@ -10,18 +10,18 @@ warning_level:
 warning_content:
   default: >
     <p>
-      Service Status: Down
+      Warning Title
 
         <span>
        
       </span>
     </p>
     <p>
-      Our team is looking into this issue. Thanks for your patience! <a href="https://coffeechat.discourse.group/c/service-updates/6</a>.
+      Banner content <a href="https://example.com</a>.
     </p>
 
   description:
-    en: 'Content of the warning for old Android users.'
+    en: 'Content of the warning banner.'
 persistent_dismiss:
   type: bool
   default: false
